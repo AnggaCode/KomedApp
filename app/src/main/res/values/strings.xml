@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">komed</string>
+
+    <string-array name="kategori">
+        <item>Taman Hiburan</item>
+        <item>Bangunan</item>
+        <item>Cafe dan Resto</item>
+    </string-array>
+
+    <string name="server_client_id">746278453035-5t1j5c49f5g5mbn2l0vjj6ulocuh616i.apps.googleusercontent.com</string>
+
+    <string name="User1">User1</string>
+    <string name="Tambahkan">tambahkan</string>
+    <string name="img_back2" />
+</resources>
