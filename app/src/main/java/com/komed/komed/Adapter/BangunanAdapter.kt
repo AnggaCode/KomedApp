@@ -9,7 +9,6 @@ import com.bumptech.glide.Glide
 import com.komed.komed.DataModel.ResponseCoba2Item
 import com.komed.komed.R
 
-
 class BangunanAdapter(private val item_bangunan: List<ResponseCoba2Item>) :
     RecyclerView.Adapter<BangunanAdapter.ViewHolder>() {
     private lateinit var mlistener: onItemClickedListener
